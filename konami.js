@@ -13,7 +13,7 @@ $(function () {
 		// We also need to send the keyCode sequence to an array.
 		seq.push(key);
 		// Check for Konami code entered.
-		var konamiEntered = seq.join(" ").substr(-29) === target;
+		var konamiEntered = seq.join(" ").substr(-target.length) === target;
 		// Update stuff in pre tag.
 		// $("pre").html(JSON.stringify({target, seq: seq.join(" ")}, null, 2));
 		if (konamiActivated) {
