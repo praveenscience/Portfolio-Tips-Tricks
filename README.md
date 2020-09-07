@@ -13,14 +13,14 @@ I am going to talk about them and reveal them! Here are the three things that I'
   </p>
 </details>
 <details>
-  <summary><strong>Part 2:</strong> Click to Reveal: Why and How? 🤘🏻</summary>
+  <summary><strong>Part 2:</strong> Konami Code: What's it and How? 🎮🏻</summary>
   <p align="center">
     <img src="./TT-PF-2.png" alt="Part 2" />
     <a href="https://youtu.be/cIw5dRTPQt4">👉 Watch Part 2 📽 👈</a>
   </p>
 </details>
 <details>
-  <summary><strong>Part 3:</strong> Konami Code: What's it and How? 🎮🏻</summary>
+  <summary><strong>Part 3:</strong> Click to Reveal: Why and How? 🤘🏻</summary>
   <p align="center">
     <img src="./TT-PF-3.png" alt="Part 3" />
     <a href="https://youtu.be/mzJD1TdWMUI">👉 Watch Part 3 📽 👈</a>
