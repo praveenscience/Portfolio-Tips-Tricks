@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Open Sans";
+}
+
+header {
+  background-color: #333;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+  margin-bottom: 15px;
+}
+header h1 {
+  padding: 10px;
+  text-align: center;
+  line-height: 1;
+  color: #fff;
+  font-size: 1em;
+}
+section {
+  margin: 25px;
+}
+code.c2r {
+  font-family: monospace;
+  display: inline-block;
+  padding: 3px;
+  border: 1px dashed #999;
+  text-transform: uppercase;
+  cursor: pointer;
+}
