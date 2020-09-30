@@ -32,14 +32,17 @@ body, input, select, button {
 	font-weight: 300;
 	display: block;
 	margin: 0 0 15px;
+	font-size: 2rem;
+
 }
 #intro .about-me-content h1 {
 	font-weight: 500;
-	font-size: 3.5em;
+	font-size: 4em;
 	text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 	margin: 0 0 25px;
 }
 #intro .about-me-content button {
+	padding: 14px 40px;
 }
 #intro img {
 	position: absolute;
